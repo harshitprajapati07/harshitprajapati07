@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**harshitprajapati07/harshitprajapati07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harshit Prajapati 👋
 
-Here are some ideas to get you started:
+### Aspiring Frontend Developer | JavaScript Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student focused on learning web development
+and building responsive, interactive websites.
+
+- 🌱 Currently learning JavaScript and improving my coding fundamentals
+- 💻 Practicing HTML, CSS, and JavaScript through projects
+- 🎯 Goal: Build modern websites that solve real-world problems
+- 🚀 Next: Learning GSAP animations and React
+
+### 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
+### 📌 Featured Projects
+
+My projects will be showcased here as I complete and improve them.
+
+### 📫 Connect With Me
+
+- GitHub: [@harshitprajapati07](https://github.com/harshitprajapati07)
